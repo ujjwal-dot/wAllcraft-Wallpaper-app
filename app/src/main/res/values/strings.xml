@@ -4,5 +4,6 @@
     <string name="api_key">563492ad6f91700001000001a35a331e1387433ab10e150b3223659c</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="wallcraft">Wallcraft</string>
 
 </resources>
